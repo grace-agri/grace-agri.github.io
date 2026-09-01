@@ -7,6 +7,3 @@ Sitemap: https://grace-agri.jp/sitemap.xml
 # Allow crawling of images
 User-agent: Googlebot-Image
 Allow: /images/
-
-# General crawl-delay for courtesy
-Crawl-delay: 1
